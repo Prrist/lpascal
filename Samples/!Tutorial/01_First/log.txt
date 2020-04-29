@@ -1,0 +1,8 @@
+Ссылка на объект не указывает на экземпляр объекта.
+   в CodeCompletion.DomSyntaxTreeVisitor.visit(program_module _program_module) в D:\PABC_Git\CodeCompletion\DomSyntaxTreeVisitor.cs:строка 2555
+   в PascalABCCompiler.SyntaxTree.program_module.visit(IVisitor visitor) в D:\PABC_Git\SyntaxTree\tree\Tree.cs:строка 13211
+   в CodeCompletion.DomSyntaxTreeVisitor.Convert(compilation_unit cu) в D:\PABC_Git\CodeCompletion\DomSyntaxTreeVisitor.cs:строка 60
+Ссылка на объект не указывает на экземпляр объекта.
+   в CodeCompletion.DomSyntaxTreeVisitor.visit(program_module _program_module) в D:\PABC_Git\CodeCompletion\DomSyntaxTreeVisitor.cs:строка 2555
+   в PascalABCCompiler.SyntaxTree.program_module.visit(IVisitor visitor) в D:\PABC_Git\SyntaxTree\tree\Tree.cs:строка 13211
+   в CodeCompletion.DomSyntaxTreeVisitor.Convert(compilation_unit cu) в D:\PABC_Git\CodeCompletion\DomSyntaxTreeVisitor.cs:строка 60

@@ -1,0 +1,5 @@
+﻿program Convert; //Перевод в другую систему счиления из десятичной
+var
+  n, k, sum, mult: integer;
+begin
+end.  
